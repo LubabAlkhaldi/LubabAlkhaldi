@@ -15,5 +15,5 @@
 - ⚙️ I’m currently learning Postman and Test Automation
 - 💬 Ask me about anything related to software testing!
 - 📫 How to reach me: [lubabalkhaldi@gmail.com](mailto:lubabalkhaldi@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/lubab-alkhaldi/)
+- 🔗 Make a connection: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/lubab-alkhaldi/)
   
