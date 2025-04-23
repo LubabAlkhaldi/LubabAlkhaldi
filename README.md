@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/jQqU9dYJQAXPSTUrzv/giphy.gif" width="200" alt="turtle waving" />
+  <img src="C:\Users\Owner\OneDrive\Desktop\1.gif" width="200"/>
 </p>
 
 <h1 align="center">Hi there 👋, I'm Lubab 💙 </h1>
