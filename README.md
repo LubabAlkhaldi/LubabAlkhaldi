@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="C:\Users\Owner\OneDrive\Desktop\1.gif" width="200"/>
+  <img src="C:\Users\Owner\Downloads\main.gif" width="200"/>
 </p>
 
 <h1 align="center">Hi there 👋, I'm Lubab 💙 </h1>
