@@ -14,6 +14,6 @@
 - 🔍 I’m currently working on polishing my QA skills
 - ⚙️ I’m currently learning Postman and Test Automation
 - 💬 Ask me about anything related to software testing!
-- 📫 How to reach me: [Email](mailto:lubabalkhaldi@gmail.com)
-- [LinkedIn](https://linkedin.com/in/yourname)
+- 📫 How to reach me: [lubabalkhaldi@gmail.com](mailto:lubabalkhaldi@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/lubab-alkhaldi/)
   
