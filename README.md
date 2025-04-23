@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/jQqU9dYJQAXPSTUrzv/giphy.gif" width="200" alt="turtle waving" />
+</p>
+
 <h1 align="center">Hi there 👋, I'm Lubab 💙 </h1>
 <h3 align="center"> Welcoming to my account   <h3>
 
