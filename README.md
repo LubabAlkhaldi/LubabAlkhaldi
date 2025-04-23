@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Lubab</h1>
-<h3 align="center">I'm Lubab  💙 <h3>
+<h1 align="center">Hi there 👋, I'm Lubab 💙 </h1>
+<h3 align="center"> Welcoming to my account   <h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=QA+Engineer+in+progress...;HTML+%7C+CSS+%7C+JavaScript+Learner;Always+learning+new+things!" alt="Typing SVG" />
