@@ -1,5 +1,5 @@
-[<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanQyeDRjdXRhbWdvaml5dmQzZGE4NG8zMW9zdzl1Nm4xMTZvMmppNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WOwiryOPA0G6jhKqB0/giphy.gif" width="200"/>
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanQyeDRjdXRhbWdvaml5dmQzZGE4NG8zMW9zdzl1Nm4xMTZvMmppNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WOwiryOPA0G6jhKqB0/giphy.gif" width="450"/>
 </p>
 
 <h1 align="center">Hi there 👋, I'm Lubab 💙 </h1>
