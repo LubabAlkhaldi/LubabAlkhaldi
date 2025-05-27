@@ -15,6 +15,7 @@
 - ⚙️ I’m currently learning Postman and Test Automation
 - 💬 Ask me about anything related to software testing!
 
+---
 ## 🛠️ Tech Stack 
 
 <p align="center">
@@ -23,19 +24,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
   <img src="https://static-00.iconduck.com/assets.00/file-type-testng-icon-2048x2048-3k5z1k1h.png" alt="TestNG" width="40" height="40" />
-  <img src="https://jmeter.apache.org/images/jmeter.png" alt="JMeter" width="40" height="40" />
+  <img src="https://jmeter.apache.org/images/jmeter.png" alt="JMeter" width="80" height="40" />
 </p>
 
+---
 
-<p align="center" style="margin-top:10px;">
-  <strong>🔗 Make a Connection</strong><br/>
-  <a href="https://www.linkedin.com/in/lubab-alkhaldi/" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
-    <img src="https://img.icons8.com/ios-filled/40/0077B5/linkedin.png" alt="LinkedIn" />
+<p align="center">
+  <a href="mailto:lubabalkhaldi@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" />
   </a>
-   <p align="center">
-  <strong>📫 Get In Touch</strong><br/>
-  <a href="mailto:lubabalkhaldi@gmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
-    <img src="https://img.icons8.com/ios-glyphs/40/000000/new-post.png" alt="Email" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/lubab-alkhaldi/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/ios-filled/48/0077B5/linkedin.png" alt="LinkedIn" />
   </a>
 </p>
-
