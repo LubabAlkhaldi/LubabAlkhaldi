@@ -28,20 +28,22 @@
 
 ---
 
-<div align="center" style="display: flex; justify-content: center; gap: 60px;">
-
-  <div>
-    <strong>📫 Keep in Touch</strong><br/>
-    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=lubabalkhaldi@gmail.com" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" />
-    </a>
-  </div>
-
-  <div>
-    <strong>🔗 Make a Connection</strong><br/>
-    <a href="https://www.linkedin.com/in/lubab-alkhaldi/" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.icons8.com/ios-filled/48/0077B5/linkedin.png" alt="LinkedIn" />
-    </a>
-  </div>
-
-</div>
+<<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <strong>📫 Keep in Touch</strong><br/>
+        <a href="https://mail.google.com/mail/?view=cm&fs=1&to=lubabalkhaldi@gmail.com" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" />
+        </a>
+      </td>
+      <td width="60"></td> <!-- مسافة بينهم -->
+      <td align="center">
+        <strong>🔗 Make a Connection</strong><br/>
+        <a href="https://www.linkedin.com/in/lubab-alkhaldi/" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.icons8.com/ios-filled/48/0077B5/linkedin.png" alt="LinkedIn" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</p>
