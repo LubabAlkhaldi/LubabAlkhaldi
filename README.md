@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi there 👋, I'm Lubab 💙 </h1>
-<h3 align="center"> Welcoming to my account   <h3>
+<h3 align="center"> Welcoming to my account </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=QA+Engineer+in+progress...;HTML+%7C+CSS+%7C+JavaScript+Learner;Always+learning+new+things!" alt="Typing SVG" />
@@ -11,11 +11,12 @@
 
 ---
 
-- 🔍 I’m currently working on polishing my QA skills
-- ⚙️ I’m currently learning Postman and Test Automation
+- 🔍 I’m currently working on polishing my QA skills  
+- ⚙️ I’m currently learning Postman and Test Automation  
 - 💬 Ask me about anything related to software testing!
 
 ---
+
 ## 🛠️ Tech Stack 
 
 <p align="center">
@@ -24,9 +25,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
   <img src="https://jmeter.apache.org/images/jmeter.png" alt="JMeter" width="80" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40"/>
 </p>
 
 ---
+
 <p align="center">
   <strong>📫 Keep in Touch</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <strong>🔗 Make a Connection</strong>
