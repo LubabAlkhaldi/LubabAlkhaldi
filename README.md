@@ -18,7 +18,9 @@
 
 ---
 
-## 🧪 Testing Stack (Priority)
+## 🧪 Tech Stack
+
+### 🧪 Testing Tools (Priority First)
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="50" height="50"/>
@@ -27,9 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/k6/k6-original.svg" width="50" height="50"/>
 </p>
 
----
-
-## 💻 Development Stack
+### 💻 Development Tools
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
@@ -41,32 +41,19 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LubabAlkhaldi&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LubabAlkhaldi&theme=tokyonight" height="180"/>
-</p>
-
----
-
 ## 🚀 Projects
 
-<p align="center">
-
 🔹 **Manual Testing Project**  
-- Test cases, bug reports, and QA documentation  
+Test cases, bug reports, QA documentation  
 
 🔹 **API Testing (Postman)**  
-- REST API validation, collections, assertions  
+REST APIs, collections, assertions  
 
-🔹 **Automation Practice (Selenium)**  
-- Basic UI automation scripts in Java  
+🔹 **Automation Testing (Selenium)**  
+UI automation scripts using Java  
 
 🔹 **Performance Testing (k6)**  
-- Load testing scenarios and performance checks  
-
-</p>
+Load testing scenarios and performance validation  
 
 ---
 
