@@ -20,16 +20,12 @@
 
 ## 🧪 Tech Stack
 
-### 🧪 Testing Tools (Priority First)
-
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="50" height="50"/>
   <img src="https://www.svgrepo.com/show/329945/apachejmeter.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/k6/k6-original.svg" width="50" height="50"/>
 </p>
-
-### 💻 Development Tools
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
@@ -57,16 +53,18 @@ Load testing scenarios and performance validation
 
 ---
 
-## 📫 Contact Me
+
+<p align="center">
+  <strong>📫 Keep in Touch</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>🔗 Make a Connection</strong>
+</p>
 
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=lubabalkhaldi@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" />
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" />
   </a>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/lubab-alkhaldi/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/48/0077B5/linkedin.png" />
+    <img src="https://img.icons8.com/ios-filled/48/0077B5/linkedin.png" alt="LinkedIn" />
   </a>
 </p>
