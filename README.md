@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanQyeDRjdXRhbWdvaml5dmQzZGE4NG8zMW9zdzl1Nm4xMTZvMmppNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WOwiryOPA0G6jhKqB0/giphy.gif" width="350"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanQyeDRjdXRhbWdvaml5dmQzZGE4NG8zMW9zdzl1Nm4xMTZvMmppNiZlcD12MV9pbnRlcm5uYWxfZ2lmX2J5X2lkJmN0PVo/WOwiryOPA0G6jhKqB0/giphy.gif" width="350"/>
 </p>
 
 <h1 align="center">Hi there 👋, I'm Lubab 💙 </h1>
-<h3 align="center">QA Engineer in Progress | Test Automation Learner</h3>
+<h3 align="center"> Test Engineer in Progress | Test Automation Learner</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=QA+Engineer+in+Progress...;API+Testing+%7C+Automation+%7C+Performance+Testing;Always+learning+new+things!" />
@@ -11,8 +11,8 @@
 
 ---
 
-- 🔍 Currently improving my QA & Automation skills  
-- ⚙️ Learning Postman, Selenium, and Performance Testing (k6)  
+- 🔍 Currently improving my Testing in Manual & Automation skills  
+- ⚙️ Learning Postman, Selenium, Playwright and Performance Testing (k6, JMeter)  
 - 🧠 Focused on building strong testing foundations  
 - 💬 Ask me anything about Software Testing!
 
@@ -25,6 +25,7 @@
   <img src="https://www.svgrepo.com/show/329945/apachejmeter.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/k6/k6-original.svg" width="50" height="50"/>
+  <img src="https://playwright.dev/img/playwright-logo.svg" width="50" height="50"/>
 </p>
 
 <p align="center">
@@ -45,14 +46,13 @@ Test cases, bug reports, QA documentation
 🔹 **API Testing (Postman)**  
 REST APIs, collections, assertions  
 
-🔹 **Automation Testing (Selenium)**  
+🔹 **Automation Testing (Selenium & Playwright)**  
 UI automation scripts using Java  
 
 🔹 **Performance Testing (k6)**  
 Load testing scenarios and performance validation  
 
 ---
-
 
 <p align="center">
   <strong>📫 Keep in Touch</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
